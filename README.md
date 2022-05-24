@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali-noman-bandesha
+- 👋 Hi, I’m @Ali_Noman_Bandesha
 - 👀 I’m interested in Android app develoopment
 - 🌱 I’m currently learning Java language for android development
 - 💞️ I’m looking to collaborate on android studion solutions
