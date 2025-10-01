@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali_Noman_Bandesha
 - 👀 I’m an Android app developer
-- 🌱 I’m working with java, Kotlin, MVVM, and Jetpack compose 
+- 🌱 I’m working with java, Kotlin, MVVM, Dependency Injection, and Jetpack compose 
 - 💞️ I’m looking to collaborate on android studio solutions
 - 📫 You can reach me on alinomanbj786@gmail.com
 
